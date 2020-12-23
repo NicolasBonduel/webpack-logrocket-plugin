@@ -1,0 +1,14 @@
+{
+  "name": "logrocket",
+  "version": "0.0.1",
+  "description": "Webpack plugin for creating releases and publishing sourcemaps to LogRocket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Bonduel",
+  "license": "ISC",
+  "dependencies": {
+    "logrocket-cli": "https://github.com/NicolasBonduel/logrocket-cli.git#with-dists"
+  }
+}
